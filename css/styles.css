@@ -82,7 +82,7 @@ body {
     background-color: var(--accent-blue-color);
     color: var(--accent-white-color);
     cursor: pointer;
-    
+
     font-family: inherit;
     font-size: 16px;
     line-height: 1.63;
@@ -108,6 +108,8 @@ body {
 /* чем мы занимаемся - index.html    */
 
 .section-title {
+    color: var(--title-black-color);
+
     font-size: 36px;
     line-height: 1.17;
     text-align: center;
